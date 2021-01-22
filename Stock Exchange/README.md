@@ -4,4 +4,11 @@ informational message that we have received; it contains the UTC timestamp (date
 excluded from the dataset. I was asked to produce a high-level summary of any regularly occurring patterns that you may find in this dataset. 
 # Insights
 - Between 4a.m to 6a.m, the number of applications from Monday to Saturday is at the lowest point of the day.
-![alt text](https://github.com/Yash4850/DataScience/blob/main/Automatic%20Cancer%20Diagnostic/Figures/Matrix.PNG)
+![alt text](https://github.com/Yash4850/EDA/blob/main/Stock%20Exchange/Figures/1.PNG)
+
+- On Sunday from 1p.m onwards the number of applications are at its lowest point
+![alt text](https://github.com/Yash4850/EDA/blob/main/Stock%20Exchange/Figures/2.PNG)
+
+- ‘Application’ is always missing for ‘node’ 6 and category 7
+- On Saturday 'Category’ is always missing for 'application' 102 and 'node' 56
+- The number of applications, node names and categories are very high at lower values.
