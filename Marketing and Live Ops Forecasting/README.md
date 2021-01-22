@@ -15,7 +15,7 @@ microtransactions(MTX’s) and Downloadable contents(DLC’s) dropped by 17% and
 You said that “Marketing or LiveOps Campaigns attract new players to the game, as well as keeping existing players engaged”. So, I am considering that they are conducted 
 when there is an increase in all the three(time,users and quests) because any one of them may change due to other reasons that we may not be aware of. So, from the below 
 graph we can clearly see that the campaigns are conducted in 5,8,10,12 (high spike) months of year 2026.
-## Note: Below graphs give mean values of the month 
+#### Note: Below graphs give mean values of the month 
 
 ![alt text](https://github.com/Yash4850/EDA/blob/main/Marketing%20and%20Live%20Ops%20Forecasting/Figures/Median%20Time%20Played.PNG)
 
